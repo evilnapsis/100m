@@ -1,0 +1,6 @@
+Pregunta 5
+Oxidacion de la glucosa,40
+formacion de lactato,32
+metabolismo de glucogeno,16
+Gluconeogenesis,8
+via de la pentosa fosfato,4
